@@ -1,0 +1,2 @@
+hudson-maven-hpi-plugin
+=======================
